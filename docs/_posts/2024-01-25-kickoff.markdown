@@ -2,7 +2,7 @@
 layout: post
 title:  "Kickoff"
 date:   2024-01-25 9:45:00 +0100
-categories: public
+categories: Public
 ---
 
 The project kickoff is held on thursday Jan 27th in hybrid form. The schedule is the following:
