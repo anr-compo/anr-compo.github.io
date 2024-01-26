@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ANR Compo
-email: ![ANR Logo](/images/anrlogo.jpg) #your-email@example.com
+title: Inductive Biases for Compositionality-capable Deep Learning Models of Natural Language
+email: #your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the website of the COMPO project. A project funded by the French Agence Nationale de la Recherche
   (ANR-23-CE23-0031-01). The project is dedicated to study biases in language models and in particular compositionality
