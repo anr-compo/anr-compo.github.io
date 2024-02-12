@@ -14,7 +14,7 @@ The project kickoff is held on thursday Jan 27th in hybrid form. The schedule is
 
 Lunch break
 
-- 14.00-15.00 : *Memory biases for segmentation* (A. Nasr)
+- 14.00-15.00 : *Memory biases for segmentation* (A. Nasr) [(slides)](/documents/2512024/wp3.pdf)
 - 15.00-16.00 : *Memory biases for semantic prediction* [(slides)](/documents/2512024/wp4.pdf) (B. Crabbé)
 
 Wrap up
