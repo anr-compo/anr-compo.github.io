@@ -15,7 +15,7 @@ The schedule is the following:
 Lunch break
 
 - 14.00-15.00 : *Structural Biases for Compositional Generalisation* (M. Coavoux) [(slides)](/documents/270924/maximin.pdf)
-- 15.00-16.00 : *Memory limitations and compositionality* [(slides)](/documents270924/benoit.pdf) (B. Crabbé)
+- 15.00-16.00 : *Memory limitations and compositionality* [(slides)](/documents/270924/benoit.pdf) (B. Crabbé)
 
 Wrap up
 
