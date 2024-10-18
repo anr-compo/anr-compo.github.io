@@ -2,7 +2,7 @@
 layout: post
 title:  "Full meeting september (private)"
 date:   2024-09-27 9:45:00 +0100
-categories: Private
+categories: Public
 ---
 
 The second full meeting of the project members is held on september 27th 2024.
