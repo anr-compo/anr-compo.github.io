@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Full meeting september (private)"
+title:  "Full meeting september"
 date:   2024-09-27 9:45:00 +0100
 categories: Public
 ---
