@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Full meeting september"
-date:   2024-09-27 9:45:00 +0100
+title:  "Reading Group"
+date:   2024-10-17 9:45:00 +0100
 categories: Public
 ---
 
