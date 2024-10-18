@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Full meeting september"
+date:   2024-09-27 9:45:00 +0100
+categories: Public
+---
+
+The reading group takes place at 11.00.
+
+The paper read is [Timkey and Linzen (2023)](https://aclanthology.org/2023.findings-emnlp.582/) and was read by B. Crabbé
