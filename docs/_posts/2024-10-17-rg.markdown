@@ -5,6 +5,6 @@ date:   2024-10-17 9:45:00 +0100
 categories: Public
 ---
 
-The reading group takes place at 11.00.
+The reading group takes place from 11.00 to 12.30
 
 The paper read is [Timkey and Linzen (2023)](https://aclanthology.org/2023.findings-emnlp.582/) and was read by B. Crabbé
